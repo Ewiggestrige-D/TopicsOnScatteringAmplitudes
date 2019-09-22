@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Preparations}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Decompositions of tree-level GR and color-ordered YM amplitudes}{1}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The rule for bi-scalar amplitudes}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Refined graphic rule for GR and color-ordered YM amplitudes}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}New conformal symmetry}{7}{section.3}
+\contentsline {section}{\numberline {4}On off-shell extension}{7}{section.4}
+\contentsline {section}{\numberline {5}One-loop amplitudes}{7}{section.5}
+\contentsline {section}{\numberline {6}String amplitudes}{7}{section.6}
